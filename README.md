@@ -1,2 +1,2 @@
-GitsKills
+GitSkills
 =========
